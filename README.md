@@ -5,9 +5,9 @@
 A new Flutter project.
 
 Contact me on
-  danmlayah@gmail.com
+  sidkiyouness@gmail.com
   or
-  +254717160344
+  +212631867404
   
   for custom app development.
 
